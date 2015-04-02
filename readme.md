@@ -4,11 +4,14 @@ Fowab Collaborative Directory merupakan project bersama fowab yang ditujukan unt
 
 Project ini merupakan project experimental, semua boleh berkolaborasi untuk menciptakan atau mensuggest ide baru. Project ini juga dapat menjadi sarana belajar untuk mengikuti trend kolaborasi software development saat ini.
 
+
+![Forum Web Anak Bandung](http://dl.dropbox.com/u/913290/fowab/fowab.png "Forum Web Anak Bandung Logo")
+
 ## Official Documentation
 Dokumentasi offisial dapat anda temukan di [Wiki Project ini](https://github.com/fowab/collaborative-directory/wiki).
 
 ## Contributing
-Terima kasih atas kolaborasi serta kontribusi yang anda lakukan. Guide kontribusi dapat anda temukan di [Collabs Directory Docs]()https://github.com/fowab/collaborative-directory/wiki/Contribution.
+Terima kasih atas kolaborasi serta kontribusi yang anda lakukan. Guide kontribusi dapat anda temukan di [Collabs Directory Docs](https://github.com/fowab/collaborative-directory/wiki/Contribution).
 
 
 ### License
