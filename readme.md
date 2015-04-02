@@ -1,23 +1,16 @@
-## Laravel PHP Framework
+## Fowab Collaborative Directory
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Fowab Collaborative Directory merupakan project bersama fowab yang ditujukan untuk membangun sebuah sistem yang akan memanage directory institusi dan talent creative di kota Bandung. Dijadwalkan untuk release pada akhir 2015, collaborative directory ini bekerja sama dengan beberapa pihak dan dimaksudkan untuk menjadi sebuah portal informasi.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Project ini merupakan project experimental, semua boleh berkolaborasi untuk menciptakan atau mensuggest ide baru. Project ini juga dapat menjadi sarana belajar untuk mengikuti trend kolaborasi software development saat ini.
 
 ## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Dokumentasi offisial dapat anda temukan di [Wiki Project ini](https://github.com/fowab/collaborative-directory/wiki).
 
 ## Contributing
+Terima kasih atas kolaborasi serta kontribusi yang anda lakukan. Guide kontribusi dapat anda temukan di [Collabs Directory Docs]()https://github.com/fowab/collaborative-directory/wiki/Contribution.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The Collaborative Directory is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
